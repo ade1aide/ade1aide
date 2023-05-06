@@ -1,4 +1,5 @@
-### Hi there 👋
+* 🦠 Ask me about microbiology
+* 🎵 Listening to: https://www.youtube.com/watch?v=XS8rJGPApUs&t=946s&ab_channel=Beverly
 
 <!--
 **ade1aide/ade1aide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
